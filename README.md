@@ -47,7 +47,7 @@ If time runs out before the quiz is completed, it will be auto-submitted.
 2. Open the project in Visual Studio.
 
 3. Configure the database connection in the appsettings.json file:
-   - "ConnectionStrings": { "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=QuizDb;Trusted_Connection=True;MultipleActiveResultSets=true" }
+   - "ConnectionStrings": { "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=QuizDB;Trusted_Connection=True;MultipleActiveResultSets=true" }
 
 4. Run the Entity Framework migrations to create the database:
    - Update-Database
