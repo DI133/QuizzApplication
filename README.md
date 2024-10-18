@@ -6,7 +6,7 @@ Quiz Application - README
 The Quiz Application is a web-based quiz platform that allows users to create, manage, and participate in quizzes. The application supports CRUD (Create, Read, Update, Delete) operations for quizzes, questions, and user data. Each quiz includes a timer, and users can view their quiz history, scores, and detailed profiles. The application is built using ASP.NET MVC and uses Entity Framework for data management.
 
 # Features
-User Management: Users can sign up, log in, and manage their profiles.
+\n User Management: Users can sign up, log in, and manage their profiles.
 Quiz Creation: Users can create quizzes with a title, description, and set a timer for quiz duration.
 Question Management: For each quiz, users can add, update, and delete questions with multiple choices.
 Quiz Participation: Users can take quizzes within a specified time limit.
