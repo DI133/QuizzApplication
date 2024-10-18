@@ -42,20 +42,20 @@ If time runs out before the quiz is completed, it will be auto-submitted.
 
 # Setup Instructions
 1. Clone the repository to your local machine.
-   git clone https://github.com/DI133/QuizzApplication.git
+   - git clone https://github.com/DI133/QuizzApplication.git
    
 2. Open the project in Visual Studio.
 
 3. Configure the database connection in the appsettings.json file:
-   "ConnectionStrings": {
+   - "ConnectionStrings": {
     "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=QuizAppDb;Trusted_Connection=True;MultipleActiveResultSets=true"
 }
 
 4. Run the Entity Framework migrations to create the database:
-   Update-Database
+   - Update-Database
 
 5. Start the application:
-   dotnet run
+   - dotnet run
 
 
 # Future Enhancements
