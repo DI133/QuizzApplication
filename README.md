@@ -42,7 +42,7 @@ If time runs out before the quiz is completed, it will be auto-submitted.
 
 # Setup Instructions
 1. Clone the repository to your local machine.
-   git clone https://github.com/your-username/quiz-application.git
+   git clone https://github.com/DI133/QuizzApplication.git
    
 2. Open the project in Visual Studio.
 
